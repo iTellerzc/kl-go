@@ -1,2 +1,2 @@
 # go-study
-go learning
+keep learning go
